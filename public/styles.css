@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(153, 236, 252);
+}
+h1 {
+  color: rgb(255, 255, 255);
+}
+
+p {
+  border: 5px rgb(255, 112, 112);
+}
